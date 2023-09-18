@@ -17,7 +17,6 @@ To achieve this, we follow these steps:
    - Experience Required
    - Location
    - Posting Date
-   - Job Description
 
 4. **Data Processing**: We clean and process the extracted data. If any information is missing, we handle it gracefully.
 
